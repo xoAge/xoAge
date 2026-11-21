@@ -5,7 +5,7 @@ Java backend-разработчик, ищу работу..
  
 ### 🛠 Стек
  
-- **Язык:** Java 21+ (records, text blocks, Stream API)
+- **Язык:** Java 21+
 - **Фреймворки:** Spring Boot, Spring MVC, Spring Data JPA, Spring Kafka, Spring Cache
 - **Данные:** PostgreSQL, JDBC, Hibernate, Kafka, Caffeine
 - **Тесты:** JUnit 5, Mockito, AssertJ, MockMvc, Testcontainers, Awaitility
